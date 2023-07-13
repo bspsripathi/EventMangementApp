@@ -1,5 +1,9 @@
 # EventManagementApp
 
+Note: Before executing your Angular Application, run the command given below to start your json server:
+`npm run json-server` or `npm run json:server`
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
